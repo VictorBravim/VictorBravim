@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  ![giphy](https://github.com/VictorBravim/VictorBravim/assets/122113588/f70636f1-e2fa-4374-8170-19cfcef1d96d)
+  <img height="200px" src="![giphy](https://github.com/VictorBravim/VictorBravim/assets/122113588/f70636f1-e2fa-4374-8170-19cfcef1d96d)"/>
 </div>
 
 ###
