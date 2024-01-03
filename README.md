@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Creating Websites since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: Improve myself in Front-end<br>🎲 Fun fact: I'm an otaku</p>
+<p align="left">✨ Creating Websites since 2020<br>📚 I'm currently learning Python<br>🎯 Goals: Improve myself in Front-end<br>🎲 Fun fact: I'm an otaku</p>
 
 ###
 
