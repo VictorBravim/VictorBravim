@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorBravim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorBravim&bg_color=132d46&color=ffffff&line=0b0e14&point=01c38e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ###
 
 <h2 align="left">Sobre mim</h2>
