@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá! Eu sou o Victor Bravim 🖐️</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Victor Bravim and I'm a Front-end Developer</p>
+<p align="left">Sou Desenvolvedor Front-end</p>
 
 ###
 
