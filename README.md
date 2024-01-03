@@ -3,12 +3,8 @@
 ###
 
 <div align="center">
-  <img height="200px" src="![giphy](https://github.com/VictorBravim/VictorBravim/assets/122113588/f70636f1-e2fa-4374-8170-19cfcef1d96d)"/>
+  <img height="200px" src=""/>
 </div>
-
-###
-
-<p align="left">Sou Desenvolvedor Front-end</p>
 
 ###
 
@@ -19,7 +15,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -30,7 +26,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologias que eu uso no meu dia</h2>
 
 ###
 
