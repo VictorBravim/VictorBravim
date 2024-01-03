@@ -23,7 +23,10 @@
 
 ###
 
-<p align="left">✨ Creating Websites since 2020<br>📚 I'm currently learning Python<br>🎯 Goals: Improve myself in Front-end<br>🎲 Fun fact: I'm an otaku</p>
+<p align="left">✨ Criando Sites desde 2020
+📚 Atualmente estou aprendendo Python
+🎯 Metas: Aprimorar-me em Front-end
+🎲 Curiosidade: sou um otaku</p>
 
 ###
 
