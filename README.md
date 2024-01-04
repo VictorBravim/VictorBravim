@@ -1,6 +1,6 @@
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&pause=1000&color=01C38E&size=35&center=true&vCenter=true&width=1000&lines=&lines=Ol%C3%A1%2C+eu+me+chamo+Victor+Bravim;Sou+um+Desenvolvedor+front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&pause=1000&color=01C38E&size=35&center=true&vCenter=true&width=1000&lines=&lines=Ol%C3%A1%2C+eu+me+chamo+Victor+Bravim;Sou+um+Desenvolvedor+Front-End)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorBravim&show_icons=true&count_private=true&hide_border=true&title_color=01C38E&icon_color=01C38E&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
