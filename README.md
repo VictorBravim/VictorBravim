@@ -1,16 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=132D46&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&pause=1000&color=01C38E&size=35&center=true&vCenter=true&width=1000&lines=&lines=Ol%C3%A1%2C+eu+me+chamo+Victor+Bravim;Sou+um+desenvolvedor+front-end)](https://git.io/typing-svg)
 
-<h2 align="left">Sobre mim</h2>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorBravim&bg_color=0d1117&color=ffffff&line=132d46&point=01c38e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorBravim&show_icons=true&count_private=true&hide_border=true&title_color=01C38E&icon_color=01C38E&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBravim&layout=compact&hide_border=true&title_color=01C38E&text_color=01C38E&bg_color=0d1117" />
+</div>
 
 ###
-
-<p align="left">✨ Criando Sites desde 2020
-📚 Atualmente estou aprendendo Python
-🎯 Metas: Aprimorar-me em Front-end
-🎲 Curiosidade: sou um otaku</p>
-
-###
-
+ 
 <h2 align="left">Tecnologias que eu uso no meu dia</h2>
 
 ###
@@ -34,4 +34,18 @@
 </div>
 
 ###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left" flex-direction="column">✨ Criando Sites desde 2020
+📚 Atualmente estou aprendendo Python
+🎯 Metas: Aprimorar-me em Front-end
+🎲 Curiosidade: sou um otaku</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=132D46&height=120&section=footer"/>
+
+###
+
 
