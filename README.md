@@ -43,7 +43,6 @@
 ✨ Criando Sites desde 2020
 📚 Atualmente estou aprendendo Python
 🎯 Metas: Aprimorar-me em Front-end
-🎲 Curiosidade: sou um otaku
 </p>
 
 ###
