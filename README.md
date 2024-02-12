@@ -9,7 +9,7 @@
 
 ###
  
-<h2 align="center">Technologies I use in my day</h2>
+<h2 align="center">Tecnologias que uso no meu dia</h2>
 
 ###
 
@@ -33,14 +33,14 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">Sobre mim</h2>
 
 ###
 
 <p align="center">
-✨ Creating Websites since 2020
-📚 I'm currently learning Python
-🎯 Goals: Improve myself in Front-end
+✨ Criando Sites desde 2020
+📚 Atualmente estou aprendendo Python
+🎯 Objetivos: Melhorar em Front-end
 </p>
 
 ###
