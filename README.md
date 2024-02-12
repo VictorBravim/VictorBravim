@@ -1,6 +1,6 @@
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=My+name+is+Victor+Bravim;+I'm+a+Front-End+developer)](https://git.io/typing-svg)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorBravim&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
