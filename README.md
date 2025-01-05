@@ -75,7 +75,7 @@
 
 <p align="center">
 ✨ Creating Websites since 2020
-📚 I'm currently learning Python
+📚 I'm currently learning Java
 🎯 Objectives: Improve Front-end
 </p>
 
